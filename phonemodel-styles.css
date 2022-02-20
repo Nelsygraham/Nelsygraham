@@ -1,0 +1,39 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	background-color: pink;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.container{
+	margin: 0px 10px 0px 10px;
+	border-radius: 15px;
+	background-color: black;
+	width: 90%;
+	height: 580px;
+	padding: 5px;
+}
+h1{
+	color: purple;
+	text-align: center;
+}
+.row{
+    background-color: blue;
+    height: 440px;
+
+}
+h2{
+	text-align: center;
+	color: white;
+	margin-
+}
+.para{
+    background-color: white;
+    height: 325px;
+    padding: 5px;
+}
+h3{
+	color: blue;
+
+}
